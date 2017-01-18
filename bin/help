@@ -8,6 +8,7 @@ echo
 echo -e "${green}Here are some helpful commands to get you started.${nocolor}"
 echo
 echo -e "> ${cyan}bin/help${nocolor} => Show this command cheatsheet"
+echo -e "> ${cyan}bin/start${nocolor} => Start the patternplate server at localhost:1337"
 
 # Add your own project-specific commands here. Use the same format.
 # The commands will be printed out upon initial project setup and
