@@ -4,3 +4,5 @@
 # container upon startup.
 
 # For example, you may want to run `npm install` or other dependency gathering.
+
+npm install
